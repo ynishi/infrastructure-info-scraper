@@ -42,7 +42,8 @@ The service collect news, seminar, oss active about infrastructure and ops.
 * AWS https://aws.amazon.com/jp/blogs/news/
 * AWS DevOps Blog https://aws.amazon.com/jp/blogs/devops/
 * Google Cloud Platfrom Blog https://cloudplatform.googleblog.com/
-* devops case http://akatsuki174.hatenablog.com/entry/20161220/1482162496
+* devops cases http://akatsuki174.hatenablog.com/entry/20161220/1482162496
+* devops case https://www.wantedly.com/companies/wantedly/post_articles/46089#_=_
 
 ### Repository
 
