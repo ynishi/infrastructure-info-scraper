@@ -69,3 +69,4 @@ The service collect news, seminar, oss active about infrastructure and ops.
 * atnd https://atnd.org/events
 * Doorkeeper https://www.doorkeeper.jp/
 * dots https://techplay.jp/
+* meetup https://www.meetup.com/ja-JP/topics/devops/?_cookie-check=7_Grsv4N6ywDm6WE
