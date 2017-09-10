@@ -25,6 +25,12 @@ The service collect news, seminar, oss active about infrastructure and ops.
 * CoreOS
 * Kubernetes
 
+#### FAAS(server less)
+
+* AWS Lambda https://aws.amazon.com/jp/lambda/
+* GCP Cloud Function https://cloud.google.com/functions/?hl=ja
+* Open FAAS https://github.com/alexellis/faas
+
 #### CI tool/service
 
 * Jenkins https://jenkins.io/
