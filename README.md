@@ -5,11 +5,25 @@ The service collect news, seminar, oss active about infrastructure and ops.
 
 ### vendor
 
+#### XAAS
+
 * aws https://aws.amazon.com/jp/devops/
 * google https://cloud.google.com/solutions/devops/?hl=ja 
 * IBM https://www.ibm.com/cloud-computing/jp-ja/products/devops/ 
 * Heroku https://www.heroku.com/developers
 * 25 DevOps Vendors https://www.informationweek.com/devops/25-devops-vendors-worth-watching/a/d-id/1326974?
+
+#### CM(Configuration Management)and related tool
+
+* Puppet
+* Ansible
+* Serverspec
+
+#### Conatainer
+
+* Docker
+* CoreOS
+* Kubernetes
 
 #### CI tool/service
 
